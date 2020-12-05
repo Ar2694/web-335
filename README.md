@@ -1,6 +1,6 @@
-# web-335
+# WEB-335
 Introduction to NoSQL
-# contributors
+# Contributors
 Professor Krasso - Bellevue University
 <br/>
 Arlix Sorto - Bellevue University
